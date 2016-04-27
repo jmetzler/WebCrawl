@@ -1,0 +1,16 @@
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\WebCrawl.exe.config
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\WebCrawl.exe
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\WebCrawl.pdb
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\Newtonsoft.Json.dll
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\System.Net.Http.Formatting.dll
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\Newtonsoft.Json.xml
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\System.Net.Http.Formatting.xml
+C:\PersonalProjects\WebCrawl\WebCrawl\obj\Debug\WebCrawl.exe
+C:\PersonalProjects\WebCrawl\WebCrawl\obj\Debug\WebCrawl.pdb
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\Microsoft.Json.dll
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\Microsoft.Net.Http.Formatting.dll
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\Microsoft.Server.Common.dll
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\System.Net.Http.dll
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\Microsoft.Json.xml
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\Microsoft.Net.Http.Formatting.xml
+C:\PersonalProjects\WebCrawl\WebCrawl\bin\Debug\System.Net.Http.xml
